@@ -1,10 +1,15 @@
-<h2>Step 5: Check a User's Audit Logs in Microsoft Azure</h2>
+<h2>Checking a User's Audit Logs in Microsoft Azure</h2>
 
 <p>
 Microsoft Azure allows administrators to review a user's account activity through Microsoft Entra ID. This can help identify account changes or other activity during troubleshooting.
 </p>
 
 <h3>1. Sign in to Microsoft Azure</h3>
+
+<p>
+ <img width="1455" height="1023" alt="image" src="https://github.com/user-attachments/assets/33895445-f7c4-4b6e-baee-ab513c08f8be" />
+
+</p>
 
 <p>
 Open the <b>Microsoft Azure Portal</b> and sign in using your company credentials.
@@ -34,7 +39,7 @@ In the <b>Microsoft Entra admin center</b>, select <b>Users</b> under the <b>Man
 <h3>4. Find the User</h3>
 
 <p>
-Search for the user by name, then click on the user's account to open their profile.
+Search for the user by name, then click the user's account to open their profile.
 </p>
 
 <!-- Paste Image 4 Here -->
@@ -43,7 +48,7 @@ Search for the user by name, then click on the user's account to open their prof
 <h3>5. Open Audit Logs</h3>
 
 <p>
-From the user's profile, click <b>Audit logs</b> to review the account's activity.
+From the user's profile, click <b>Audit logs</b> to review the user's activity.
 </p>
 
 <!-- Paste Image 5 Here -->
@@ -52,7 +57,7 @@ From the user's profile, click <b>Audit logs</b> to review the account's activit
 <h3>6. Review the Logs</h3>
 
 <p>
-Review the audit logs for any recent account activity or changes. If necessary, document your findings for future reference or further investigation.
+Review the audit logs for recent account activity or changes. If necessary, document your findings or create a report for further investigation.
 </p>
 
 <!-- Paste Image 6 Here -->
